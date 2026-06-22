@@ -1,0 +1,8 @@
+accelerate
+fastapi
+huggingface_hub[cli]
+python-multipart
+soundfile
+transformers
+uvicorn[standard]
+pyannote.audio

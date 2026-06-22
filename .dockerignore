@@ -1,0 +1,10 @@
+.git
+__pycache__/
+*.pyc
+.venv/
+models/
+input/
+output/
+*.wav
+*.mp3
+*.flac
